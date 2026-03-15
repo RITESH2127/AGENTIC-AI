@@ -1,0 +1,19 @@
+// ============================================================
+//  SIGNAL.AI — Configuration Template
+//  Copy this file to config.js and fill in your API key.
+//  config.js is in .gitignore and will never be committed.
+// ============================================================
+
+const CONFIG = {
+  // Get your key at https://console.anthropic.com
+  ANTHROPIC_API_KEY: "YOUR_API_KEY_HERE",
+
+  // Change to "/api/messages" when using the Express proxy (server.js)
+  API_ENDPOINT: "https://api.anthropic.com/v1/messages",
+
+  // Model to use
+  MODEL: "claude-sonnet-4-20250514",
+
+  // Max tokens per response
+  MAX_TOKENS: 2000,
+};

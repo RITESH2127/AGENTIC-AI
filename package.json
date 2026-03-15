@@ -1,0 +1,17 @@
+{
+  "name": "signal-ai",
+  "version": "1.0.0",
+  "description": "Autonomous investment intelligence agent — scans GitHub, news, and social media to identify tech movements and draft investment memos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ai", "investment", "venture-capital", "intelligence", "anthropic"],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
