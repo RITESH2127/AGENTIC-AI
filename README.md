@@ -8,7 +8,7 @@
 
 ## What It Does
 
-SIGNAL.AI is a single-page agentic app powered by Claude (Anthropic). It simulates the full workflow of a VC analyst — from spotting a tech trend to writing a conviction memo — without any manual research.
+SIGNAL.AI is a single-page agentic app. It simulates the full workflow of a VC analyst — from spotting a tech trend to writing a conviction memo — without any manual research.
 
 ### Four-stage agentic workflow
 
@@ -28,7 +28,6 @@ The **Deep Dive** button on any signal triggers rabbit-hole logic: the agent eva
 ## Tech Stack
 
 - **Frontend**: Vanilla HTML + CSS + JavaScript (zero build step)
-- **AI**: [Anthropic Claude](https://www.anthropic.com) (`claude-sonnet-4-20250514`) via the Messages API
 - **Backend (optional)**: Node.js + Express proxy to keep your API key server-side
 - **Fonts**: DM Mono + Syne via Google Fonts
 
