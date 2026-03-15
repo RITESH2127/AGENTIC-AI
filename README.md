@@ -195,6 +195,4 @@ MIT — use freely, attribution appreciated.
 
 ---
 
-## Acknowledgements
 
-Built with [Claude](https://www.anthropic.com/claude) by Anthropic. Fonts by [Google Fonts](https://fonts.google.com) (DM Mono, Syne).
